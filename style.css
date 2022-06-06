@@ -1,6 +1,22 @@
-body{
-    background: lavenderblush;
+html{
+    background: url(./White.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h2{
+    color: chocolate;
+    text-align: center;
+}
+div#info{
+    text-align: center;
 }
 h1{
-    text-decoration-color: beige;
+    font-family: Helvetica;
+    background-color: black;
+    color: white;
+}
+ul{
+    font-size: large;
 }
