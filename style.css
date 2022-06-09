@@ -1,12 +1,8 @@
 html{
-    background: url(./White.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background-color: rgb(245, 154, 49);
 }
 h2{
-    color: chocolate;
+    color: black;
     text-align: center;
 }
 div#info{
